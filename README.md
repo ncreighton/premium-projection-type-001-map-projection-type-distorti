@@ -1,0 +1,2 @@
+# premium-projection-type-001-map-projection-type-distorti
+Struggling to understand how map projections distort reality—or worse, presenting flawed geographic data to your audience? The Map Projection Type &amp; Distortion Craft Lab cuts through the confusion with an interactive Notion workspace that demystifies every projection type and its real-world impact.  This isn't just a reference guide—it's a hands-on
